@@ -1,5 +1,5 @@
-import global from './global'
-import local from './local'
-import provinsi from './provinsi'
+import Global from './global'
+import Local from './local'
+import Provinsi from './provinsi'
 
-export {global, local, provinsi}
+export {Global, Local, Provinsi}
