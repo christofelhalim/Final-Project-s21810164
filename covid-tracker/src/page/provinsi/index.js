@@ -1,11 +1,17 @@
 import React from 'react'
+import Cprovinsi from "./Cprovinsi"
+import '../../App.css'
 
-const provinsi = () => {
+
+const Provinsi = () => {
     return (
         <div>
-            <h1>Provinsi</h1>
+           <h1>
+               Province
+            </h1>
+            <Cprovinsi/>
         </div>
     )
 }
 
-export default provinsi;
+export default Provinsi;
